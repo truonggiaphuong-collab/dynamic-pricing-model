@@ -1,7 +1,4 @@
-# Dynamic Pricing Simulation for Ride-Hailing Platforms
-
-A professional data science portfolio project demonstrating **demand prediction**, **economics-based dynamic pricing**, and **simulation** for graduate school applications (MSc Business Analytics, AI, Quantitative Economics).
-
+# Dynamic Pricing simulation for Ride-Hailing platforms
 ---
 
 ## Problem Statement
@@ -18,7 +15,7 @@ This project simulates a complete dynamic pricing system: we **predict demand** 
 
 ## Dataset
 
-We use **NYC TLC Yellow Taxi data** when available (auto-download from official source), with **synthetic data** as fallback:
+We use **NYC TLC Yellow Taxi data**, with **synthetic data** as fallback:
 
 | Column        | Description                          |
 |---------------|--------------------------------------|
